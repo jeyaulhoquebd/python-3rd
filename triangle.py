@@ -7,7 +7,7 @@ def Triangle():
     b = int(input("Enter the value of b :")) 
     c = int(input("Enter the value of c :"))
 
-    if((a+b)>c and (b+c)>a and (a+c)>a):
+    if((a+b)>c and (b+c)>a and (a+c)>b):
 
         s = (a+b+c)/2
 
@@ -19,6 +19,5 @@ def Triangle():
 
         print("Triangle is not posslible")
 
-    Triangle()
+Triangle()
 
-    
