@@ -1,3 +1,5 @@
+#Python program to find a factorial value using a function
+
 def factorial(n):
     if n==0:
         return 1
