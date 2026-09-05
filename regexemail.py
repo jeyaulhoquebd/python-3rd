@@ -7,3 +7,8 @@ def isValid(email):
         print("Email is valid")
     else:
         print("Email is Invalid")
+
+    isValid("jeya@gmail.com")
+    isValid("jaber53@yahoo.com")
+    isValid("zia87@.com")
+    isValid("hoque@tuf.in")
