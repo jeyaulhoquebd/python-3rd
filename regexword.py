@@ -5,3 +5,4 @@ txt = """The rain in spain the rain in spain """
 
 x = re.findall("ai", txt)
 print("counting word:\n",txt)
+print(x.count("ai"), "ai Found")
