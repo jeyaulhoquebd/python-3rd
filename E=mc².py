@@ -1,3 +1,5 @@
+# E = mc² in Python program
+
 def calculate_enery(mass):
     """
 
